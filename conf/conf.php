@@ -9,9 +9,9 @@
 // DB_USER: DBに接続するためのユーザID
 // DB_PASS: DBに接続するためのパスワード
 define("DB_SERVER","localhost");
-define("DB_NAME","rkpp");
-define("DB_USER","rkpp_user");
-define("DB_PASS","Tomoaki0915");
+define("DB_NAME","*****");
+define("DB_USER","******");
+define("DB_PASS","*******");
 
 // SECTION 2 (ユーザログイン設定)
 // この設定に関しては、必ず設定項目の説明を読んでください
